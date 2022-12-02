@@ -1,4 +1,4 @@
-## Olá eu sou o Renato Olmedo
+## Olá eu sou o Renato Olmedo!
 ### Desenvolvedor pleno back-end C#, estudante de engenharia de dados e apaixonado por tecnologia!
 <div align="center">
   <a href="https://github.com/rafaballerini">
